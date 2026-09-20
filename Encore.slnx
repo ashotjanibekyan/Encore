@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Encore.Core/Encore.Core.csproj" />
+  <Project Path="Encore/Encore.csproj" />
+</Solution>
